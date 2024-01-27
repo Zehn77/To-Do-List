@@ -1,0 +1,33 @@
+.add-todo {
+    border-radius: 20px;
+    background-color: #d9d9d9;
+    height: 50px;
+    display: flex;
+    margin-top: 70px;
+}
+
+.add-todo input {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    background-color: #d9d9d9;
+    border: 0;
+    outline: none;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.add-todo button {
+    width: 150px;
+    height: 100%;
+    border-radius: 20px;
+    background-color: #4f4f4f;
+    color: #fff;
+    font-family: Racing Sans One;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+    line-height: normal;
+    border: none;
+}
